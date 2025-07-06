@@ -31,11 +31,11 @@ ElevateLabsDay8
 
 ### 💻 Desktop View
 
-![Desktop View](c:\Users\eluri\OneDrive\Pictures\Screenshots\image12.png)
+![image12](https://github.com/user-attachments/assets/ddf55c2a-81f0-49c5-b922-17f48d65dcc5)
 
 ### 📱 Mobile View
 
-![Mobile View](c:\Users\eluri\OneDrive\Pictures\Screenshots\image123.png)
+![image123](https://github.com/user-attachments/assets/b5c36319-0eee-4981-9149-c26ce3fbef9c)
 
 ---
 
@@ -51,7 +51,7 @@ ElevateLabsDay8
 ## 📦 Setup Instructions
 
 1. Clone this repository:
-   git clone https://github.com/your-username/travel-blog-bootstrap.git
+   git clone https://github.com/Akash-088/bootstrap-blog-layout.git
 2. Open the folder and run with Live Server (or just open index.html in browser).
 
 ---
